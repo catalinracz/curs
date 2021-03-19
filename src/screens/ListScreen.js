@@ -12,6 +12,7 @@ const ListScreen = () => {
         { name: 'Friend #7', age: 50},
         { name: 'Friend #8', age: 12},
         { name: 'Friend #9', age: 13}
+        { name: 'Friend #9', age: 13}
     ];
     return (
     <FlatList
